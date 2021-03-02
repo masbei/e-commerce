@@ -1,0 +1,117 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header 
+{
+
+display:flex;
+justify-content: space-around;
+background-color: rgb(255, 255, 255);
+position: sticky;
+top: 0;
+opacity: 0.8;
+color: rgb(235, 75, 12);
+
+}
+
+header img {
+
+width: 80px;
+height: 65px;
+margin-right: 10px;
+margin-top: 5px;
+
+}
+#logo{
+
+    display: flex;
+
+    padding-left: 0px;
+    }
+    section {
+
+
+        margin-left: 20px;
+        
+        display: flex;
+        height: 300px;
+        margin-top: 100px;
+        }
+        .image_delete
+
+{
+    display: flex;
+    flex-direction: column;
+}
+section img {
+
+    height: 250px;
+    margin-right: 20px;
+    
+    border: 1px black solid;
+    
+    
+    }
+    .descriptionarticle{
+
+        display: flex;
+        flex-direction: column;
+        color: rgb(0, 0, 0);
+        
+        }
+.quantity{
+
+display: flex;
+margin-bottom: 10px;
+}
+.plus 
+
+{
+   margin-left: 20px;
+   margin-right: 3px;
+   height: 30px;
+   width: 30px;
+  opacity: 0.8;
+  color: aliceblue;
+  background-color: green;
+}
+.buttons{
+
+    position: relative;
+    top: 10px;
+    
+    }
+    .moins{
+
+
+        height: 30px;
+        width: 30px;
+        opacity: 0.8;
+        background-color: red;
+        color:seashell;
+        
+        }
+.inp{
+width: 30px;
+}
+.delete {
+
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 200px;
+    
+    }
+    #pull img
+
+    {
+    
+    width: 250px;
+    
+    }
+    svg{
+
+        width: 50px;
+        height: 50px;
+        
+        }
